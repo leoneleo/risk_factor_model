@@ -1,0 +1,6 @@
+"run -> pip list"
+Python             3.10.6
+pandas             1.5.2
+pandas-datareader  0.10.0
+matplotlib         3.6.2
+matplotlib-inline  0.1.6
