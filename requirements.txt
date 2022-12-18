@@ -4,3 +4,5 @@ pandas             1.5.2
 pandas-datareader  0.10.0
 matplotlib         3.6.2
 matplotlib-inline  0.1.6
+yfinance           0.1.90
+statsmodels        0.13.5
